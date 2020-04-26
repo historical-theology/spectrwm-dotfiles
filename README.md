@@ -4,6 +4,8 @@ spectrwm with everything set to white-on-black
 
 Built on blank Debian 10 "Buster" for minimalism
 
+This dotfiles git repository is managed with Yet Another Dotfiles Manager (yadm): https://yadm.io/
+
 Includes configurations & themes for:
 * urxvt-unicode
 * dillo
