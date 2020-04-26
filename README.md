@@ -16,3 +16,6 @@ This README is WIP as the project continues.
 
 Expected monospace font (consistently employed throughout the dotfiles):
 UM Typewriter: https://ctan.org/tex-archive/fonts/umtypewriter
+
+MIT License for my own work
+Licenses for others' work are all Free but should be preserved as the original authors intended
