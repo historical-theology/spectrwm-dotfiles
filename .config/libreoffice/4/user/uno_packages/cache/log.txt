@@ -1,0 +1,11 @@
+###### Progress log entry 2020-04-18 15:01:46 ######
+Reinstalling all deployed packages...
+###### Progress log entry 2020-04-18 15:02:30 ######
+###### Progress log entry 2020-04-18 15:09:16 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: com.philolog.hoplitekb", Context = (com.sun.star.uno.XInterface) @5571ea6db190 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: com.philolog.hoplitekb", Context = (com.sun.star.uno.XInterface) @5571ea6db190 } }, ArgumentPosition = (short) -1 }
+Copying: hoplitekb.oxt
+###### Progress log entry 2020-04-19 20:42:15 ######
+###### Progress log entry 2020-04-23 06:49:29 ######
+###### Progress log entry 2020-04-23 06:50:41 ######
+###### Progress log entry 2020-04-23 14:50:24 ######

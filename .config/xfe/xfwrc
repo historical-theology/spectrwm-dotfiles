@@ -1,0 +1,31 @@
+[OPTIONS]
+textnumberforeground=Gray100
+width=972
+tabcols=8
+linesnum=0
+textnumberbackground=Black
+hilitematchtime=3000
+hidestatus=0
+wordwrap=0
+height=530
+textforeground=Gray100
+textselbackground=#316183
+texthiliteforeground=Gray100
+textcursor=Gray100
+searchpath=
+textfont=Noto Serif [GOOG],100,normal,regular
+texthilitebackground=#ff8080
+wrapcols=80
+hidetoolbar=0
+stripreturn=0
+textbackground=Black
+textselforeground=Gray100
+
+[SETTINGS]
+tippause=500
+basecolor=Black
+tiptime=10000
+
+[Recent Files]
+FILE1=/home/corey/Zotero/userchrome.css
+

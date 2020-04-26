@@ -1,0 +1,30 @@
+!! Corey Stephan .Xresources !!
+!! Based on the .Xresources files of Manjaro i3 & linuxdabbler (github.com/linuxdabbler) !!
+
+!! Basic X Settings !!
+!! For HiDPI displays, dpi should be increased, starting w/120 or 130 !!
+Xft.dpi:			90
+Xft.antialias:			true
+Xft.hinting:			true
+Xft.rgba:			rgb
+Xft.autohint:			false
+Xft.hintstyle:			hintfull
+Xft.lcdfilter:			lcddefault
+*background:			#000000
+*foreground:			#FFFFFF
+
+!! xterm Settings !!
+xterm*faceName:			UMTypewriter
+xterm*faceSize:			14
+xterm*selectToClipboard:	true
+
+!! urxvt Settings !!
+URxvt.scrollBar:		false
+URxvt.font:			xft:UMTypewriter:style=Medium:size=14, \
+				xft:Monospace:style=Medium:size=14			
+URxvt.boldfont:			xft:UMTypewriter:style=Bold:size=14, \
+				xft:Monospace:style=Bold:size=14
+URxvt.background:		black
+URxvt.foreground:		white
+URxvt.saveLines:		5000
+
