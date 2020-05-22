@@ -9,3 +9,5 @@ Copying: hoplitekb.oxt
 ###### Progress log entry 2020-04-23 06:49:29 ######
 ###### Progress log entry 2020-04-23 06:50:41 ######
 ###### Progress log entry 2020-04-23 14:50:24 ######
+###### Progress log entry 2020-05-04 16:04:56 ######
+###### Progress log entry 2020-05-05 13:23:36 ######
