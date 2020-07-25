@@ -14,17 +14,36 @@ Xft.lcdfilter:			lcddefault
 *foreground:			#FFFFFF
 
 !! xterm Settings !!
-xterm*faceName:			UMTypewriter
-xterm*faceSize:			14
+xterm*faceName:			Hack
+xterm*faceSize:			11
 xterm*selectToClipboard:	true
 
 !! urxvt Settings !!
 URxvt.scrollBar:		false
-URxvt.font:			xft:UMTypewriter:style=Medium:size=14, \
-				xft:Monospace:style=Medium:size=14			
-URxvt.boldfont:			xft:UMTypewriter:style=Bold:size=14, \
-				xft:Monospace:style=Bold:size=14
+URxvt.font:			xft:Hack:style=Medium:size=11, \
+				xft:Monospace:style=Medium:size=12			
+URxvt.boldfont:			xft:Hack:style=Bold:size=11, \
+				xft:Monospace:style=Bold:size=12
 URxvt.background:		black
 URxvt.foreground:		white
 URxvt.saveLines:		5000
 
+!!  Molokai theme - Corey's Edits !!
+! URxvt.background: #101010
+! URxvt.foreground: #d0d0d0
+*.color0: #101010
+*.color1: #960050
+*.color2: #66aa11
+*.color3: #c47f2c
+*.color4: #30309b
+*.color5: #7e40a5
+*.color6: #3579a8
+*.color7: #9999aa
+*.color8: #303030
+*.color9: #ff0090
+*.color10:	#80ff00
+*.color11:	#ffba68
+*.color12:	#5f5fee
+*.color13:	#bb88dd
+*.color14:	#4eb4fa
+*.color15:	#d0d0d0
