@@ -17,7 +17,8 @@ Includes configurations & themes for:
 
 This README is WIP as the project continues.
 
-Expected monospace font (consistently employed throughout the dotfiles):
+Expected monospace fonts:
+* Hack: `apt install fonts-hack`
 * UM Typewriter: https://ctan.org/tex-archive/fonts/umtypewriter
 
 MIT License for my own work
