@@ -49,11 +49,11 @@ parse_embedded_css=NO
 # If FLTK has been configured with Xft enabled (the default), you can use
 # scalable fonts such as DejaVu or Liberation (try running
 # "fc-list : family | cut -d ',' -f 2 | sort").
-font_serif="UM Typewriter"
+font_serif="Hack"
 #font_sans_serif="DejaVu Sans"
 #font_cursive="URW Chancery L"
 #font_fantasy="DejaVu Sans"
-font_monospace="UM Typewriter"
+font_monospace="Hack"
 #
 # Otherwise, use bitmapped fonts like the following (for a list, try running
 # "xlsfonts -fn *-iso10646-1 | grep -v -e -0-0 | cut -d - -f 3 | sort | uniq").
