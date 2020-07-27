@@ -98,6 +98,7 @@ alias words="ww1 && ww2"
 
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
+alias upgrade="sudo apt update && sudo apt upgrade"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
