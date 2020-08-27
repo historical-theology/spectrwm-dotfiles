@@ -1,4 +1,4 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
+#a ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 
@@ -92,6 +92,8 @@ fi
 #alias la='ls -A'
 #alias l='ls -CF'
 
+alias ls="ls -a"
+
 alias ww1="cd whitakers-words"
 alias ww2="bin/words"
 alias words="ww1 && ww2"
@@ -99,6 +101,10 @@ alias words="ww1 && ww2"
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
 alias upgrade="sudo apt update && sudo apt upgrade"
+
+alias nolock="killall xautolock"
+#alias barrier="devour barrier"
+alias d="devour"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
