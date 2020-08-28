@@ -1,6 +1,7 @@
 # spectrwm-dotfiles
 
-Corey Stephan's custom Debian 10 build featuring spectrwm with everything set to white-on-black
+Dotfiles for Corey Stephan's custom build of Debian 10 featuring spectrwm with everything set to white-on-black:
+### https://www.coreystephan.com/spectrwm-on-debian/
 
 This dotfiles git repository is managed with Yet Another Dotfiles Manager (yadm): https://yadm.io/
 
