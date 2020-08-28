@@ -1,6 +1,6 @@
 # spectrwm-dotfiles
 
-spectrwm with everything set to white-on-black
+Corey Stephan's custom Debian build featuring spectrwm with everything set to white-on-black
 
 Built on blank Debian 10 "Buster" for minimalism
 
