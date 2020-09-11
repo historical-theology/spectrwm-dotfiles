@@ -92,7 +92,7 @@ fi
 #alias la='ls -A'
 #alias l='ls -CF'
 
-alias ls="ls -a"
+alias ls="ls -a -F -h -v --author --color=always"
 
 alias ww1="cd whitakers-words"
 alias ww2="bin/words"
@@ -104,7 +104,12 @@ alias upgrade="sudo apt update && sudo apt upgrade"
 
 alias nolock="killall xautolock"
 #alias barrier="devour barrier"
+
 alias d="devour"
+
+alias tom="elinks /home/corey/AquinasOperaOmnia/index.html"
+alias summa="elinks /home/corey/AquinasOperaOmnia/summa/index.html"
+
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
@@ -126,12 +131,12 @@ if ! shopt -oq posix; then
   fi
 fi
 
-## Powerline Shell ##
-function _update_ps1() {
-    PS1=$(powerline-shell $?)
-}
+## bash-powerline ##
+source ~/.bash-powerline.sh
 
-if [[ $TERM != linux && ! $PROMPT_COMMAND =~ _update_ps1 ]]; then
-    PROMPT_COMMAND="_update_ps1; $PROMPT_COMMAND"
-fi
+## change default text editor ##
+	export VISUAL=micro;
+	export EDITOR=micro;
 
+## LS Colors ##
+. "/home/corey/.local/share/lscolors.sh"
