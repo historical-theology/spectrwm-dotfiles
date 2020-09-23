@@ -111,6 +111,10 @@ alias tom="elinks /home/corey/AquinasOperaOmnia/index.html"
 alias summa="elinks /home/corey/AquinasOperaOmnia/summa/index.html"
 
 
+alias marquette="sudo openconnect --protocol gp vpn.marquette.edu -u 9552stephac"
+
+alias net="nmcli connection show"
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
