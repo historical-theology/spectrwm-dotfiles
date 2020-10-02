@@ -115,6 +115,8 @@ alias marquette="sudo openconnect --protocol gp vpn.marquette.edu -u 9552stephac
 
 alias net="nmcli connection show"
 
+alias bible="bash /home/corey/diatheke-tui/diatheke-tui.sh"
+
 # Alias definitions.
 # You may want to put all your additions into a separate file like
 # ~/.bash_aliases, instead of adding them here directly.
