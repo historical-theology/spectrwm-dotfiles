@@ -6,6 +6,7 @@ Dotfiles for Corey Stephan's custom build of Debian 10 featuring spectrwm with e
 This dotfiles git repository is managed with Yet Another Dotfiles Manager (yadm): https://yadm.io/
 
 Includes configurations & themes for:
+* termite
 * urxvt-unicode
 * dillo
 * thunderbird + thunderbird-gtk3
